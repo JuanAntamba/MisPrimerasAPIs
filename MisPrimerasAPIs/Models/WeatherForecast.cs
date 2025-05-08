@@ -1,4 +1,4 @@
-namespace MisPrimerasAPIs
+namespace MisPrimerasAPIs.Models
 {
     public class WeatherForecast
     {

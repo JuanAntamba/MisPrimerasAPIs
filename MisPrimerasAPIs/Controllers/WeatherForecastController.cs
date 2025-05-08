@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using MisPrimerasAPIs.Models;
 
 namespace MisPrimerasAPIs.Controllers;
 
